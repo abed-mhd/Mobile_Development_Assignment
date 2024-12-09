@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Room Management</string>
+
+    <string name="app_logo_description">Room Management logo</string>
+    <string name="act_main_welcome">Welcome on Room Management,
+ the app to manage building rooms</string>
+    <string name="act_main_open">Open</string>
+    <string name="act_main_fill_id">Fill an id for room</string>
+    <string name="act_room_save">Save</string>
+    <string name="act_room_name">Room Name</string>
+    <string name="act_room_temp">Target Temperature</string>
+    <string name="app_go_back_description">Go back</string>
+    <string name="app_go_home_description">Go to Home</string>
+    <string name="app_go_room_description">Rooms</string>
+    <string name="app_go_github_description">GitHub</string>
+    <string name="app_go_mail_description">Send email</string>
+
+</resources>
